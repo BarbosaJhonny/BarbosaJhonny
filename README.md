@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/BarbosaJhonny">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=BarbosaJhonny&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BarbosaJhonny&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbosaJhonny&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
